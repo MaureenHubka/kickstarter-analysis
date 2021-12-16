@@ -22,10 +22,8 @@ A better way to view it would be by percentage of successful and failed plays, b
 ![image_Theater_Outcomes_by_Launch_Challenge_1](Theater_Outcomes_by_Lauch.png)
 
 ### Analysis of Outcomes Based on Goals
-The outcomes of theater launches based on goals does not show a clear trend. Goals of less than $1000 had the highest percentage of success at 76%.  
-Closely follwed by $1000 to $4999 at 73%. 
-The success rates fluctuated and dipped as goal ranges increased, increasing again to 67% at the $35000 to $44999 range, and then dropping off again.
-Although it went up to 67% at the $35000 to $44999 range, the denominator was low for that range, which could affect reliability.
+The outcomes of theater launches based on goals does not show a clear trend. Goals of less than $1000 had the highest percentage of success at 76%.  This was
+closely followed by $1000 to $4999 at 73%. The success rates fluctuated and dipped as goal ranges increased, increasing again to 67% at the $35000 to $44999 range, and then dropping off again. Although it went up to 67% at the $35000 to $44999 range, the denominator was low for that range, which could affect reliability.
 
 ![image_Outcomes_by_Goal_Challenge_1](Outcomes_by_Goals.png)
 
@@ -40,22 +38,22 @@ analyzed specific to the purpose was dificult. The biggest difficulty I encounte
 May and June had the highest number of successful launch dates. 
 Goals of less than $1000 had the highest percentage of success at 76%. 
 
-Fomr the Outcomes based Launch Date, May had the highest number of successful launch dates.  
-Conclusions that can be gleaned form this is that if Louise launhces her play in May, it is more likely to
-have a successful outcome. If Louise launhces her play in December it will more likely not be successful.  
-Therefore, Spring is probably the best time to launch.
+From the Outcomes based Launch Date, May had the highest number of successful launch dates.  
+Conclusions that can be gleaned from this data are that if Louise launhces her play in May, it is more likely to
+have a successful outcome. If Louise launhces her play in December it will more likely not be successful.  Therefore, Spring is probably the best time to launch.
   
 From the Outcomes based on Goals, it was found that goals less than $1000 were most successful.  Although goals ranging from $35000  
 to $44999 were relatively successful, the number of projects attempted was low, so it is a less reliable predictor. Therefore, we can glean from this that 
-a goals less than $1000 will more likely be successful.
+goals less than $1000 will more likely be successful.
 
-Limitations of the data set include the lack of extraneous variables, such as weather and environment, which could have contributed to launch date success or failure.  
-Extent of project financial needs and audience factors were not included, which could also have affected the success by fundraising goals. 
+Limitations of the data set include the lack of extraneous variables, such as weather and environment, which could have contributed 
+to launch date success or failure. Extent of project financial needs and audience factors were not included, which could also have 
+affected the success by fundraising goals. 
 
 We could have used percentages on the Outcomes Based on Launch Date pivot table. Launch date could also have been looked at by year.  
 A clustered column chart could have been used to display the Outcomes Based on Launch Date. 
-We could have looked at success or failure by country or average dontations with a bar chart. In additions we could have looked at plays specifically, 
-instead of theater in general.
+Success and failure rates by country or average dontations could have been displayed with a bar chart. 
+In additions we could have looked at plays specifically, instead of theater in general.
 
 
 
