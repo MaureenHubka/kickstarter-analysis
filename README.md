@@ -1,8 +1,8 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise is planning to launch a play called Fever.  She is close to her fundraising goal and would like statistical information on 
-to see the affect of launch dates and goal rates for other plays available in a date set. The project will use excel tools to trend success and failures 
+Louise is planning to launch a play called Fever.  She is close to her fundraising goal and would like statistical information  
+to see the affect of launch dates and other plays available in a date set. The project will use excel tools to trend success and failures 
 of theater projects based on launch dates and fundraising goals.
 
 ### Purpose
@@ -18,12 +18,16 @@ The most successfull theater launches by start dates from the raw numbers are be
 The larger total number of plays launched during the time period of May to June contributes to the larger total number of outcomes for the months in general. 
 A better way to view it would be by percentage of successful and failed plays based on the grand totoals for each month.
 
-![image_Launch Date](Outcomes_Launch_Date.png)
+![image_Theater_Outcomes_by_Launch_Challenge_1](Theater_Outcomes_by_Lauch.png)
 
 ### Analysis of Outcomes Based on Goals
 The outcomes of theater launches based on goals does not show a clear trend. Goals of less than $1000 had the highest percentage of success at 76%.  
 Closely follwed by $1000 to $4999 at 73%. 
-The success rates fluctuated and dipped as goals ranges increasded, until increasing again to 67% at the $35000 to $44999 ra
+The success rates fluctuated and dipped as goals ranges increased, increasing again to 67% at the $35000 to $44999 range and then dropping off again.
+Although it went up to 67%, the denominator was low for the $35000 to $44999 range, which could affect reliability.
+
+![image_Outcomes_by_Goal_Challenge_1](Outcomes_by_Goals.png)
+
 
 
 ### Challenges and Difficulties Encountered
